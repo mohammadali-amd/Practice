@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background: #1f1f1f;
+}
+
+body {
+  margin: 0;
+}
+
+div#app {
+  text-align: center;
+  align-items: center;
+  padding: 1rem;
+}
