@@ -1,1 +1,1 @@
-<img src="/public/reduxCart.png" alt="Advanced Redux" title="reduxCart">
+<img src="public/reduxCart.png" alt="Advanced Redux" title="reduxCart">
