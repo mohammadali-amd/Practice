@@ -1,1 +1,1 @@
-<img src="/public/GrateQuotes.png" alt="Add Quotes" title="Grate Quotes" >
+<img src="public/GrateQuotes.png" alt="Add Quotes" title="Grate Quotes" >
