@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+  width: 0.4rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #07222700;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #35858B;
+  border-radius: 5rem;
+}
+
+body {
+  background-color: #072227;
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+.teal__gradient {
+  background: linear-gradient(180deg, rgba(165, 255, 231, 0) 0%, #5ddcd8 100%);
+  filter: blur(123px);
+}
