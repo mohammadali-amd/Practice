@@ -12,10 +12,10 @@ const Navbar = () => {
     <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-light'>
       <h1 className='hidden md:block text-3xl font-bold text-secondary hover:cursor-pointer'>عنوان سایت</h1>
       <ul className='hidden md:flex'>
-        <li className='p-4 hover:cursor-pointer'>صفحه اصلی</li>
-        <li className='p-4 hover:cursor-pointer'>محصولات</li>
-        <li className='p-4 hover:cursor-pointer'>درباره ما</li>
-        <li className='p-4 hover:cursor-pointer'>تماس با ما</li>
+        <li className='p-4'><span className='hover:cursor-pointer'>صفحه اصلی</span></li>
+        <li className='p-4'><span className='hover:cursor-pointer'>محصولات</span></li>
+        <li className='p-4'><span className='hover:cursor-pointer'>درباره ما</span></li>
+        <li className='p-4'><span className='hover:cursor-pointer'>تماس با ما</span></li>
       </ul>
       <div onClick={handleNav} className='block md:hidden'>
         {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}

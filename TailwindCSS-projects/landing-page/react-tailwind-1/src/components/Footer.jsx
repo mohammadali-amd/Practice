@@ -19,35 +19,35 @@ const Footer = () => {
         <div>
           <h6 className='font-medium text-gray-400'>خدمات</h6>
           <ul>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>مشاوره</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>تبلیغات</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>فروش</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>طراحی</li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>مشاوره</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>تبلیغات</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>فروش</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>طراحی</span></li>
           </ul>
         </div>
         <div className='mt-8 md:mt-0'>
           <h6 className='font-medium text-gray-400'>پشتیبانی</h6>
           <ul>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>قیمت ها</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>مقاله ها</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>راهنما</li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>قیمت ها</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>مقاله ها</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>راهنما</span></li>
           </ul>
         </div>
         <div>
           <h6 className='font-medium text-gray-400'>شرکت</h6>
           <ul>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>درباره ما</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>بلاگ</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>همکاری</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>تماس با ما</li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>درباره ما</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>بلاگ</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>همکاری</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>تماس با ما</span></li>
           </ul>
         </div>
         <div className='mt-8 md:mt-0'>
           <h6 className='font-medium text-gray-400'>قوانین</h6>
           <ul>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>حریم خصوصی</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>سیاست ها</li>
-            <li className='py-2 text-sm hover:cursor-pointer hover:opacity-70 duration-200'>لورم ایپسوم</li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>حریم خصوصی</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>سیاست ها</span></li>
+            <li className='py-2 text-sm hover:opacity-70 duration-200'><span className='hover:cursor-pointer'>لورم ایپسوم</span></li>
           </ul>
         </div>
 
